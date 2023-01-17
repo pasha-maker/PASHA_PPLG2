@@ -1,0 +1,40 @@
+span{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    font-style: italic;
+    text-decoration: underline;
+    
+}
+
+.lorem{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 25px;
+    text-align: justify;
+}
+
+.lorem:hover{
+    background-color: black;
+   color: white;
+}
+
+.mapel{
+    background-color: orange;
+    font-weight: bold;
+}
+
+ul{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pplg{
+    color: blue;
+    font-style: italic;
+}
+
+.footer{
+    background-color: purple;
+    text-align: center;
+font-size: 25px;
+    color: wheat;
+}

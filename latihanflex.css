@@ -1,0 +1,31 @@
+.container{
+    width: 600px;
+    height: 400px;
+  
+    margin: 30px auto;
+    padding: 5px;
+    display: flex;  
+    
+    justify-content: space-evenly;
+    /* align-items: center; */
+   flex-direction: row;
+   }
+   span{
+    color: aqua;
+    font-family: Arial, Helvetica, sans-serif
+   }
+   .menu-tengah a{
+    
+    text-decoration: none;
+    font-style: none;
+    color: black;
+    display: flex;
+    
+    
+   }
+
+   .menu-tengah{
+    display: flex;
+   }
+   
+  
